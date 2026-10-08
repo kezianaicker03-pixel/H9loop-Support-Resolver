@@ -1,0 +1,8 @@
+{
+  "case_number": "CS-20373",
+  "customer_id": "C1007",
+  "order_number": "H9-10165",
+  "summary": "Customer account has security fraud flag active (POL-07).",
+  "queue": "Security Queue",
+  "status": "submitted"
+}

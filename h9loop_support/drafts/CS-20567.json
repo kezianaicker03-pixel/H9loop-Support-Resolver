@@ -1,0 +1,8 @@
+{
+  "case_number": "CS-20567",
+  "customer_id": "C1006",
+  "order_number": "H9-10164",
+  "summary": "Refund request of R12 000,00 exceeds R10,000 ceiling (POL-05).",
+  "queue": "Support Lead Queue",
+  "status": "submitted"
+}

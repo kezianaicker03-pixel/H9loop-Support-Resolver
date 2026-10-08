@@ -1,0 +1,8 @@
+{
+  "case_number": "CS-20372",
+  "customer_id": "C1010",
+  "order_number": "H9-10168",
+  "summary": "Payment settled on 2026-10-04 for AI Foundations Course, but delivery status is pending_access.",
+  "queue": "Course Operations Queue",
+  "status": "submitted"
+}

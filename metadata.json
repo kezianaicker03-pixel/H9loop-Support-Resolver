@@ -1,0 +1,6 @@
+{
+  "name": "H9loop Support Resolver",
+  "description": "Autonomous, policy-compliant customer support AI agent for H9loop with identity verification, refund controls, and automated scenario validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

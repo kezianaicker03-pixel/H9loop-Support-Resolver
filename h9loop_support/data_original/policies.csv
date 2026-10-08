@@ -1,0 +1,14 @@
+policy_id,topic,rule_text,threshold_zar,escalate
+POL-01,Refund window,"Refunds allowed within 14 days of order_date. After that, explain policy and escalate only if the customer disputes.",,0
+POL-02,Non-refundable,Products with refundable = 0 (Downloadable Prompt Template Pack) cannot be refunded once delivered.,,0
+POL-03,Single refund,"Only one refund per order. If refund_status = refunded, do not refund again.",,0
+POL-04,Refund approval limit,"Refunds above R5,000 need human approval before processing.",5000.0,1
+POL-05,Hard escalation limit,"Refunds above R10,000 must be escalated; the agent must never process them.",10000.0,1
+POL-06,Subscriptions,Subscription renewals cannot be reversed after 14 days.,,0
+POL-07,Fraud,"If fraud_flag = 1, stop self-service and escalate to the Security queue.",,1
+POL-08,Locked or suspended accounts,Do not refund or change data on a locked or suspended account; escalate to Account Recovery.,,1
+POL-09,Duplicate charge,"If two settled payments exist for one order, the duplicate may be refunded after verification; if the data conflicts, escalate.",,0
+POL-10,Verification,"Before any refund or account change, the customer must give their email and the last 4 digits of their phone number, and both must match the record.",,0
+POL-11,Manager request,"If the customer asks for a manager or mentions legal action, escalate immediately.",,1
+POL-13,Partial refunds,The agent does not process partial refunds. Escalate partial-refund requests with the amount requested.,,1
+POL-12,POPIA,Never reveal another person's data. Share only the verified customer's own record. Never display full phone numbers.,,0

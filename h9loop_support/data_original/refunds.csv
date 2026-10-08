@@ -1,0 +1,2 @@
+refund_id,order_number,amount_zar,created_date,status
+RF700000,H9-10167,4500.0,2026-10-02,completed

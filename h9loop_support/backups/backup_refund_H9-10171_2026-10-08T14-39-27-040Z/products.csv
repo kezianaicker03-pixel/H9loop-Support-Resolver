@@ -1,0 +1,10 @@
+product_id,name,category,price_zar,is_digital,is_subscription,refundable
+P001,AI Foundations Course,Course,2500.0,1,0,1
+P002,Prompt Engineering Bootcamp,Course,4500.0,1,0,1
+P003,AI Agents Masterclass,Course,6500.0,1,0,1
+P004,Claude Skills Jar Subscription (monthly),Subscription,299.0,1,1,1
+P005,Placement Programme (real-project placement),Programme,12000.0,0,0,1
+P006,POPIA & AI Compliance Workshop (SMB),Workshop,8500.0,0,0,1
+P007,AI Implementation Starter Package (SMB),Consulting,25000.0,0,0,1
+P008,1:1 Coaching Session,Coaching,1200.0,0,0,1
+P009,Downloadable Prompt Template Pack,Digital download,350.0,1,0,0

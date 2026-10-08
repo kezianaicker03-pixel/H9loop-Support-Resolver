@@ -1,0 +1,21 @@
+case_number,customer_id,opened_date,category,status,summary
+CS-20000,C1020,2026-08-30,refund,resolved,Mock historical case
+CS-20001,C1075,2026-09-29,other,resolved,Mock historical case
+CS-20002,C1034,2026-09-17,account,resolved,Mock historical case
+CS-20003,C1009,2026-09-06,access,resolved,Mock historical case
+CS-20004,C1012,2026-08-26,billing,resolved,Mock historical case
+CS-20005,C1030,2026-09-07,other,resolved,Mock historical case
+CS-20006,C1039,2026-08-19,account,open,Mock historical case
+CS-20007,C1080,2026-09-02,account,open,Mock historical case
+CS-20008,C1014,2026-09-11,account,resolved,Mock historical case
+CS-20009,C1060,2026-08-18,account,open,Mock historical case
+CS-20010,C1074,2026-09-01,billing,resolved,Mock historical case
+CS-20011,C1076,2026-08-19,billing,open,Mock historical case
+CS-20012,C1066,2026-08-25,access,resolved,Mock historical case
+CS-20013,C1029,2026-08-23,account,resolved,Mock historical case
+CS-20014,C1016,2026-09-09,account,resolved,Mock historical case
+CS-20015,C1062,2026-09-09,billing,open,Mock historical case
+CS-20016,C1031,2026-09-23,other,resolved,Mock historical case
+CS-20017,C1068,2026-09-10,refund,resolved,Mock historical case
+CS-20018,C1045,2026-08-18,refund,open,Mock historical case
+CS-20019,C1056,2026-08-27,refund,open,Mock historical case

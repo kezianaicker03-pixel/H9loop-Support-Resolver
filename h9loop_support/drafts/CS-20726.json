@@ -1,0 +1,8 @@
+{
+  "case_number": "CS-20726",
+  "customer_id": "C1014",
+  "order_number": "H9-10172",
+  "summary": "Customer account status is locked (POL-08).",
+  "queue": "Account Recovery Queue",
+  "status": "submitted"
+}

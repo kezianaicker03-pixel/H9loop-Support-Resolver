@@ -1,0 +1,101 @@
+customer_id,full_name,email,phone,city,province,client_type,company,membership_status,account_status,fraud_flag,popia_marketing_consent,verification_phone_last4,joined_date,open_cases
+C1001,Palesa Naidoo,palesa.naidoo1@example.com,+27 73 929 7500,Gqeberha,Eastern Cape,Student,,vip,active,0,1,7500,2026-06-17,0
+C1002,Riaan Govender,riaan.govender2@example.com,+27 74 529 1636,Polokwane,Limpopo,Student,,premium,active,0,0,1636,2025-05-24,0
+C1003,Ilse Khumalo,ilse.khumalo3@example.com,+27 75 146 7533,Bloemfontein,Free State,Student,,premium,active,0,1,7533,2026-06-20,0
+C1004,Tendai Mokoena,tendai.mokoena4@example.com,+27 77 887 2408,Polokwane,Limpopo,Student,,standard,active,0,1,2408,2025-06-21,0
+C1005,Ruan Zulu,ruan.zulu5@example.com,+27 73 364 2656,Cape Town,Western Cape,SMB,Kwela Print,standard,active,0,1,2656,2025-06-13,0
+C1006,Yusuf Naidoo,yusuf.naidoo6@example.com,+27 74 865 4458,Durban,KwaZulu-Natal,Student,,standard,active,0,1,4458,2025-03-25,0
+C1007,Thabo Sithole,thabo.sithole7@example.com,+27 77 903 8115,Polokwane,Limpopo,Student,,standard,active,1,0,8115,2026-03-02,0
+C1008,Keshav Molefe,keshav.molefe8@example.com,+27 79 660 9891,Pretoria,Gauteng,Student,,standard,active,0,1,9891,2025-06-05,0
+C1009,Mpho Williams,mpho.williams9@example.com,+27 71 453 8790,Pretoria,Gauteng,Entrepreneur,Williams Ventures,vip,active,0,0,8790,2025-05-05,0
+C1010,Sibusiso Williams,sibusiso.williams10@example.com,+27 74 665 6695,Mbombela,Mpumalanga,Student,,standard,active,0,0,6695,2025-03-16,0
+C1011,Lerato Pillay,lerato.pillay11@example.com,+27 76 732 6617,Pietermaritzburg,KwaZulu-Natal,Student,,standard,active,0,1,6617,2025-01-26,0
+C1012,Anele Botha,anele.botha12@example.com,+27 75 234 3871,Pretoria,Gauteng,Student,,standard,active,0,0,3871,2026-01-22,0
+C1013,Megan Botha,megan.botha13@example.com,+27 79 238 2523,Pretoria,Gauteng,Student,,premium,active,0,0,2523,2025-11-06,0
+C1014,Sipho Molefe,sipho.molefe14@example.com,+27 79 507 3516,Stellenbosch,Western Cape,Student,,standard,locked,0,1,3516,2025-05-24,0
+C1015,Lerato Botha,lerato.botha15@example.com,+27 76 660 4937,Cape Town,Western Cape,Entrepreneur,Botha Ventures,standard,active,0,1,4937,2026-01-26,0
+C1016,Zanele du Plessis,zanele.duplessis16@example.com,+27 72 487 6960,Cape Town,Western Cape,Student,,standard,active,0,1,6960,2025-12-20,0
+C1017,Keshav Nkosi,keshav.nkosi17@example.com,+27 74 105 9264,Gqeberha,Eastern Cape,Student,,standard,active,0,0,9264,2025-02-28,0
+C1018,Johan Mthembu,johan.mthembu18@example.com,+27 78 302 9397,Durban,KwaZulu-Natal,Entrepreneur,Mthembu Ventures,standard,active,0,0,9397,2026-01-21,0
+C1019,Riaan Dlamini,riaan.dlamini19@example.com,+27 77 327 9122,Cape Town,Western Cape,Student,,premium,active,0,1,9122,2026-06-09,0
+C1020,Tendai Moyo,tendai.moyo20@example.com,+27 73 834 1723,Bloemfontein,Free State,SMB,Kwela Print,standard,active,0,1,1723,2026-01-27,0
+C1021,Devon Chetty,devon.chetty21@example.com,+27 74 460 6528,Sandton,Gauteng,SMB,Lakeview Dental,standard,active,0,1,6528,2024-12-16,0
+C1022,Ilse Pillay,ilse.pillay22@example.com,+27 73 407 2425,Pretoria,Gauteng,Entrepreneur,Pillay Ventures,standard,active,0,1,2425,2026-08-10,0
+C1023,Pieter Pillay,pieter.pillay23@example.com,+27 76 815 4391,Stellenbosch,Western Cape,SMB,Karoo Craft Co,standard,active,0,1,4391,2026-05-25,0
+C1024,Lindiwe Dlamini,lindiwe.dlamini24@example.com,+27 71 886 9488,Bloemfontein,Free State,Entrepreneur,Dlamini Ventures,vip,active,0,1,9488,2024-12-12,0
+C1025,Thabo Mokoena,thabo.mokoena25@example.com,+27 74 693 1882,Durban,KwaZulu-Natal,Student,,standard,active,0,0,1882,2025-02-05,0
+C1026,Ilse Cassim,ilse.cassim26@example.com,+27 74 557 7296,Durban,KwaZulu-Natal,Student,,vip,active,0,0,7296,2025-06-04,0
+C1027,Sipho Dlamini,sipho.dlamini27@example.com,+27 74 243 8369,Sandton,Gauteng,Student,,standard,active,0,1,8369,2024-11-27,0
+C1028,Ruan Govender,ruan.govender28@example.com,+27 77 570 9982,Cape Town,Western Cape,Entrepreneur,Govender Ventures,standard,active,1,1,9982,2025-02-09,0
+C1029,Busisiwe Mahlangu,busisiwe.mahlangu29@example.com,+27 76 855 1541,Gqeberha,Eastern Cape,SMB,Kwela Print,standard,active,0,1,1541,2026-04-29,0
+C1030,Busisiwe Maharaj,busisiwe.maharaj30@example.com,+27 77 808 2432,Pietermaritzburg,KwaZulu-Natal,Student,,standard,active,0,1,2432,2025-08-16,0
+C1031,Zanele Mthembu,zanele.mthembu31@example.com,+27 71 467 6207,Pretoria,Gauteng,Student,,standard,active,0,1,6207,2026-02-25,0
+C1032,Karabo du Plessis,karabo.duplessis32@example.com,+27 74 671 6047,Gqeberha,Eastern Cape,Entrepreneur,du Plessis Ventures,standard,active,0,0,6047,2025-01-19,0
+C1033,Karabo Pillay,karabo.pillay33@example.com,+27 71 268 2672,Pietermaritzburg,KwaZulu-Natal,SMB,Savanna Solar,standard,active,0,1,2672,2025-04-01,0
+C1034,Sibusiso Sithole,sibusiso.sithole34@example.com,+27 73 960 1412,Bloemfontein,Free State,SMB,Ubuntu Foods,vip,active,0,1,1412,2025-11-22,0
+C1035,Ayesha Chetty,ayesha.chetty35@example.com,+27 71 521 5665,Durban,KwaZulu-Natal,SMB,Ubuntu Foods,standard,active,0,1,5665,2026-01-25,0
+C1036,Devon Nkosi,devon.nkosi36@example.com,+27 74 369 5572,Bloemfontein,Free State,Student,,standard,active,0,0,5572,2026-01-21,0
+C1037,Priya Chetty,priya.chetty37@example.com,+27 73 758 6616,Pretoria,Gauteng,Entrepreneur,Chetty Ventures,standard,active,0,1,6616,2025-03-13,0
+C1038,Thandi Naidoo,thandi.naidoo38@example.com,+27 73 380 7807,Cape Town,Western Cape,Entrepreneur,Naidoo Ventures,premium,active,0,0,7807,2025-10-12,0
+C1039,Palesa Khumalo,palesa.khumalo39@example.com,+27 75 756 9957,Stellenbosch,Western Cape,Student,,vip,active,0,1,9957,2026-03-17,1
+C1040,Chantelle Cassim,chantelle.cassim40@example.com,+27 77 190 7498,Cape Town,Western Cape,Student,,premium,active,0,1,7498,2025-04-20,0
+C1041,Sipho Nkosi,sipho.nkosi41@example.com,+27 79 282 6379,Sandton,Gauteng,Student,,standard,active,0,1,6379,2026-03-24,0
+C1042,Sibusiso Dlamini,sibusiso.dlamini42@example.com,+27 75 819 9931,Polokwane,Limpopo,SMB,Bright Path Logistics,standard,locked,0,1,9931,2026-04-25,0
+C1043,Themba Pillay,themba.pillay43@example.com,+27 78 612 9009,Sandton,Gauteng,Entrepreneur,Pillay Ventures,standard,active,0,1,9009,2025-07-03,0
+C1044,Ayesha du Plessis,ayesha.duplessis44@example.com,+27 76 257 7096,Bloemfontein,Free State,SMB,Table Bay Tutors,premium,active,0,1,7096,2026-05-15,0
+C1045,Busisiwe Govender,busisiwe.govender45@example.com,+27 76 356 4521,Mbombela,Mpumalanga,Entrepreneur,Govender Ventures,standard,active,0,1,4521,2025-06-22,1
+C1046,Naledi Nkosi,naledi.nkosi46@example.com,+27 79 885 9963,Gqeberha,Eastern Cape,Student,,standard,active,0,1,9963,2025-09-12,0
+C1047,Kagiso Jacobs,kagiso.jacobs47@example.com,+27 74 163 9581,Cape Town,Western Cape,SMB,Table Bay Tutors,standard,active,0,1,9581,2025-11-06,0
+C1048,Kagiso Naidoo,kagiso.naidoo48@example.com,+27 72 531 5893,Pietermaritzburg,KwaZulu-Natal,Student,,standard,active,0,0,5893,2024-12-19,0
+C1049,Lerato Govender,lerato.govender49@example.com,+27 76 680 1911,Johannesburg,Gauteng,Student,,premium,active,0,1,1911,2025-11-24,0
+C1050,Chantelle Nkosi,chantelle.nkosi50@example.com,+27 77 941 2862,Pietermaritzburg,KwaZulu-Natal,Student,,premium,active,0,1,2862,2024-11-20,0
+C1051,Mpho Pillay,mpho.pillay51@example.com,+27 75 115 7289,Mbombela,Mpumalanga,Student,,vip,active,0,1,7289,2025-02-08,0
+C1052,Pieter Jacobs,pieter.jacobs52@example.com,+27 78 634 9241,Pietermaritzburg,KwaZulu-Natal,Entrepreneur,Jacobs Ventures,standard,active,0,1,9241,2025-06-14,0
+C1053,Karabo Botha,karabo.botha53@example.com,+27 78 109 6219,Durban,KwaZulu-Natal,Student,,standard,active,0,0,6219,2026-08-01,0
+C1054,Riaan Pretorius,riaan.pretorius54@example.com,+27 76 664 5635,Cape Town,Western Cape,Entrepreneur,Pretorius Ventures,premium,active,0,1,5635,2026-02-10,0
+C1055,Johan Moyo,johan.moyo55@example.com,+27 71 491 7124,Mbombela,Mpumalanga,SMB,Lakeview Dental,standard,active,0,1,7124,2025-11-21,0
+C1056,Lindiwe Botha,lindiwe.botha56@example.com,+27 79 703 4400,Mbombela,Mpumalanga,Student,,vip,active,0,0,4400,2025-09-08,1
+C1057,Sibusiso Zulu,sibusiso.zulu57@example.com,+27 75 114 3513,Cape Town,Western Cape,SMB,Bright Path Logistics,standard,active,0,1,3513,2026-07-25,0
+C1058,Fatima Maharaj,fatima.maharaj58@example.com,+27 74 399 4581,Pretoria,Gauteng,Entrepreneur,Maharaj Ventures,standard,active,0,0,4581,2025-08-01,0
+C1059,Kagiso du Plessis,kagiso.duplessis59@example.com,+27 76 743 2566,Pietermaritzburg,KwaZulu-Natal,Student,,standard,active,1,1,2566,2025-04-27,0
+C1060,Priya Govender,priya.govender60@example.com,+27 71 668 1376,Johannesburg,Gauteng,SMB,Umoja Retail,standard,active,0,0,1376,2026-06-21,1
+C1061,Keshav Botha,keshav.botha61@example.com,+27 79 889 1995,Polokwane,Limpopo,Student,,vip,active,0,1,1995,2025-12-05,0
+C1062,Fatima Mokoena,fatima.mokoena62@example.com,+27 72 822 3660,Durban,KwaZulu-Natal,Student,,standard,active,0,1,3660,2025-04-01,1
+C1063,Kagiso Patel,kagiso.patel63@example.com,+27 79 741 5256,Mbombela,Mpumalanga,Student,,standard,active,0,1,5256,2025-09-14,0
+C1064,Ilse Williams,ilse.williams64@example.com,+27 74 456 3651,Bloemfontein,Free State,SMB,Umoja Retail,standard,active,0,1,3651,2025-07-19,0
+C1065,Yusuf Khumalo,yusuf.khumalo65@example.com,+27 72 378 5883,Polokwane,Limpopo,Student,,standard,active,0,1,5883,2025-12-16,0
+C1066,Keshav Pretorius,keshav.pretorius66@example.com,+27 77 264 5531,Polokwane,Limpopo,Entrepreneur,Pretorius Ventures,standard,active,0,1,5531,2026-09-07,0
+C1067,Nomsa Moyo,nomsa.moyo67@example.com,+27 77 335 9536,Durban,KwaZulu-Natal,Entrepreneur,Moyo Ventures,premium,active,0,1,9536,2025-08-12,0
+C1068,Nomsa Khumalo,nomsa.khumalo68@example.com,+27 75 352 3392,Polokwane,Limpopo,Student,,standard,active,0,1,3392,2025-12-06,0
+C1069,Yusuf Patel,yusuf.patel69@example.com,+27 72 519 9281,Pretoria,Gauteng,Entrepreneur,Patel Ventures,premium,active,0,1,9281,2026-04-15,0
+C1070,Pieter Botha,pieter.botha70@example.com,+27 73 816 8834,Polokwane,Limpopo,Student,,standard,active,0,1,8834,2025-05-20,0
+C1071,Kagiso Mahlangu,kagiso.mahlangu71@example.com,+27 76 792 6826,Pretoria,Gauteng,Student,,standard,active,0,1,6826,2025-09-09,0
+C1072,Tendai Maharaj,tendai.maharaj72@example.com,+27 75 831 8557,Cape Town,Western Cape,Student,,standard,active,0,1,8557,2024-12-12,0
+C1073,Ruan Naidoo,ruan.naidoo73@example.com,+27 76 547 8728,Johannesburg,Gauteng,Student,,standard,locked,0,1,8728,2024-11-28,0
+C1074,Anele Zulu,anele.zulu74@example.com,+27 79 494 3651,Stellenbosch,Western Cape,SMB,Delta Accounting,standard,active,0,1,3651,2026-06-25,0
+C1075,Keshav Naidoo,keshav.naidoo75@example.com,+27 79 427 9289,Pietermaritzburg,KwaZulu-Natal,Student,,premium,active,0,1,9289,2026-01-28,0
+C1076,Naledi Patel,naledi.patel76@example.com,+27 73 899 6558,Johannesburg,Gauteng,Entrepreneur,Patel Ventures,premium,active,0,1,6558,2026-01-11,1
+C1077,Anele Sithole,anele.sithole77@example.com,+27 77 282 6614,Cape Town,Western Cape,Student,,standard,active,0,1,6614,2026-02-14,0
+C1078,Tendai Cassim,tendai.cassim78@example.com,+27 75 475 7011,Pretoria,Gauteng,SMB,Lakeview Dental,standard,active,0,1,7011,2025-02-07,0
+C1079,Busisiwe Chetty,busisiwe.chetty79@example.com,+27 77 228 4182,Gqeberha,Eastern Cape,SMB,Ubuntu Foods,standard,active,0,1,4182,2025-11-01,0
+C1080,Busisiwe van der Merwe,busisiwe.vandermerwe80@example.com,+27 78 821 3590,Stellenbosch,Western Cape,Student,,standard,active,0,1,3590,2026-03-23,1
+C1081,Ruan Williams,ruan.williams81@example.com,+27 79 220 6676,Sandton,Gauteng,Student,,premium,active,0,1,6676,2025-01-14,0
+C1082,Riaan Ndlovu,riaan.ndlovu82@example.com,+27 71 970 3159,Mbombela,Mpumalanga,Student,,standard,active,0,0,3159,2026-04-24,0
+C1083,Lerato Ndlovu,lerato.ndlovu83@example.com,+27 72 572 1165,Cape Town,Western Cape,Entrepreneur,Ndlovu Ventures,standard,active,0,1,1165,2026-05-07,0
+C1084,Fatima du Plessis,fatima.duplessis84@example.com,+27 76 289 7210,Johannesburg,Gauteng,SMB,Lakeview Dental,vip,active,1,0,7210,2025-02-28,0
+C1085,Karabo Khumalo,karabo.khumalo85@example.com,+27 78 387 7488,Cape Town,Western Cape,Student,,standard,active,0,1,7488,2024-12-18,0
+C1086,Yusuf Mahlangu,yusuf.mahlangu86@example.com,+27 72 480 9987,Johannesburg,Gauteng,Entrepreneur,Mahlangu Ventures,standard,active,0,0,9987,2026-07-17,0
+C1087,Tendai van der Merwe,tendai.vandermerwe87@example.com,+27 78 173 5169,Gqeberha,Eastern Cape,SMB,Ubuntu Foods,standard,active,0,1,5169,2026-05-31,0
+C1088,Riaan Jacobs,riaan.jacobs88@example.com,+27 73 165 5442,Sandton,Gauteng,Student,,standard,active,0,0,5442,2025-12-12,0
+C1089,Sipho Mthembu,sipho.mthembu89@example.com,+27 73 548 8840,Stellenbosch,Western Cape,Entrepreneur,Mthembu Ventures,premium,active,0,1,8840,2025-12-12,0
+C1090,Anele Patel,anele.patel90@example.com,+27 72 164 7812,Sandton,Gauteng,Student,,premium,active,0,0,7812,2025-12-31,0
+C1091,Lindiwe du Plessis,lindiwe.duplessis91@example.com,+27 79 301 9802,Pretoria,Gauteng,Student,,standard,suspended,0,1,9802,2025-03-29,0
+C1092,Palesa Sithole,palesa.sithole92@example.com,+27 75 381 3477,Durban,KwaZulu-Natal,Student,,premium,active,0,1,3477,2026-07-23,0
+C1093,Chantelle Mokoena,chantelle.mokoena93@example.com,+27 72 894 5133,Pretoria,Gauteng,Student,,standard,active,0,1,5133,2025-08-05,0
+C1094,Themba Khumalo,themba.khumalo94@example.com,+27 76 703 2810,Durban,KwaZulu-Natal,Student,,standard,active,0,1,2810,2026-05-27,0
+C1095,Fatima Moyo,fatima.moyo95@example.com,+27 78 873 9853,Johannesburg,Gauteng,SMB,Delta Accounting,standard,active,0,1,9853,2026-04-05,0
+C1096,Megan Dlamini,megan.dlamini96@example.com,+27 77 328 7977,Johannesburg,Gauteng,Student,,standard,active,0,0,7977,2026-05-18,0
+C1097,Tendai Molefe,tendai.molefe97@example.com,+27 77 565 3766,Durban,KwaZulu-Natal,Entrepreneur,Molefe Ventures,standard,active,0,1,3766,2025-08-15,0
+C1098,Zanele Pretorius,zanele.pretorius98@example.com,+27 75 472 8548,Mbombela,Mpumalanga,Entrepreneur,Pretorius Ventures,standard,active,0,0,8548,2025-06-22,0
+C1099,Anele van der Merwe,anele.vandermerwe99@example.com,+27 74 267 9170,Stellenbosch,Western Cape,Student,,standard,active,0,1,9170,2024-12-09,0
+C1100,Ruan van der Merwe,ruan.vandermerwe100@example.com,+27 78 271 9487,Mbombela,Mpumalanga,Student,,standard,active,0,1,9487,2025-02-27,0
